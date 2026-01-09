@@ -1,0 +1,97 @@
+
+.logs-container {
+    margin-top: 20px;
+}
+
+.logs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.logs-column {
+    display: flex;
+}
+
+.logs-card {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    flex: 1;
+    overflow: hidden;
+}
+
+.logs-header {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+    padding: 20px;
+    border-radius: 12px 12px 0 0;
+}
+
+.logs-header h3 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logs-content {
+    padding: 20px;
+}
+
+.activity-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 15px 0;
+    border-bottom: 1px solid #f1f5f9;
+}
+
+.activity-item:last-child {
+    border-bottom: none;
+}
+
+.activity-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 16px;
+    flex-shrink: 0;
+}
+
+.activity-icon.login { background: linear-gradient(135deg, #667eea, #764ba2); }
+.activity-icon.inventory { background: linear-gradient(135deg, #f093fb, #f5576c); }
+.activity-icon.supplier { background: linear-gradient(135deg, #4facfe, #00f2fe); }
+.activity-icon.management { background: linear-gradient(135deg, #43e97b, #38f9d7); }
+.activity-icon.profile { background: linear-gradient(135deg, #fa709a, #fee140); }
+.activity-icon.archive { background: linear-gradient(135deg, #a8edea, #fed6e3); }
+.activity-icon.logout { background: linear-gradient(135deg, #ff9a9e, #fecfef); }
+.activity-icon.mail { background: linear-gradient(135deg, #ffecd2, #fcb69f); }
+
+.activity-details {
+    flex: 1;
+}
+
+.activity-title {
+    font-weight: 600;
+    color: #1e293b;
+    margin-bottom: 4px;
+}
+
+.activity-description {
+    font-size: 14px;
+    color: #64748b;
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+    .logs-grid {
+        grid-template-columns: 1fr;
+    }
+}

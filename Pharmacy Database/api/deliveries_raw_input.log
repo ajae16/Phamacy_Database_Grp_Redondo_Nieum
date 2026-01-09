@@ -1,0 +1,136 @@
+[2026-01-03 02:12:52] CONTENT_TYPE=application/json
+RAW_BODY={\
+
+[2026-01-03 02:13:35] CONTENT_TYPE=application/json CONTENT_LENGTH=2 REQUEST_METHOD=POST
+RAW_BODY_LEN=2 RAW_BODY={\
+RAW_BODY_HEX=7b5c
+HEADERS={"CONTENT_TYPE":"application\/json","CONTENT_LENGTH":"2","HTTP_USER_AGENT":"curl\/8.16.0","HTTP_ACCEPT":"*\/*","REQUEST_METHOD":"POST"}
+
+[2026-01-03 02:33:32] CONTENT_TYPE=application/json CONTENT_LENGTH= REQUEST_METHOD=GET
+RAW_BODY_LEN=0 RAW_BODY=
+RAW_BODY_HEX=
+HEADERS={"CONTENT_TYPE":"application\/json","CONTENT_LENGTH":"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36 Edg\/143.0.0.0","HTTP_ACCEPT":"*\/*","REQUEST_METHOD":"GET"}
+
+[2026-01-03 02:33:33] CONTENT_TYPE=application/json CONTENT_LENGTH= REQUEST_METHOD=GET
+RAW_BODY_LEN=0 RAW_BODY=
+RAW_BODY_HEX=
+HEADERS={"CONTENT_TYPE":"application\/json","CONTENT_LENGTH":"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36 Edg\/143.0.0.0","HTTP_ACCEPT":"*\/*","REQUEST_METHOD":"GET"}
+
+[2026-01-03 02:33:33] CONTENT_TYPE=application/json CONTENT_LENGTH= REQUEST_METHOD=GET
+RAW_BODY_LEN=0 RAW_BODY=
+RAW_BODY_HEX=
+HEADERS={"CONTENT_TYPE":"application\/json","CONTENT_LENGTH":"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36 Edg\/143.0.0.0","HTTP_ACCEPT":"*\/*","REQUEST_METHOD":"GET"}
+
+[2026-01-03 02:33:33] CONTENT_TYPE=application/json CONTENT_LENGTH= REQUEST_METHOD=GET
+RAW_BODY_LEN=0 RAW_BODY=
+RAW_BODY_HEX=
+HEADERS={"CONTENT_TYPE":"application\/json","CONTENT_LENGTH":"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36 Edg\/143.0.0.0","HTTP_ACCEPT":"*\/*","REQUEST_METHOD":"GET"}
+
+[2026-01-03 02:33:54] CONTENT_TYPE=application/json CONTENT_LENGTH= REQUEST_METHOD=GET
+RAW_BODY_LEN=0 RAW_BODY=
+RAW_BODY_HEX=
+HEADERS={"CONTENT_TYPE":"application\/json","CONTENT_LENGTH":"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36 Edg\/143.0.0.0","HTTP_ACCEPT":"*\/*","REQUEST_METHOD":"GET"}
+
+[2026-01-03 02:34:13] CONTENT_TYPE=application/json CONTENT_LENGTH= REQUEST_METHOD=GET
+RAW_BODY_LEN=0 RAW_BODY=
+RAW_BODY_HEX=
+HEADERS={"CONTENT_TYPE":"application\/json","CONTENT_LENGTH":"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36 Edg\/143.0.0.0","HTTP_ACCEPT":"*\/*","REQUEST_METHOD":"GET"}
+
+[2026-01-03 11:32:40] CONTENT_TYPE=application/json CONTENT_LENGTH= REQUEST_METHOD=GET
+RAW_BODY_LEN=0 RAW_BODY=
+RAW_BODY_HEX=
+HEADERS={"CONTENT_TYPE":"application\/json","CONTENT_LENGTH":"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36 Edg\/143.0.0.0","HTTP_ACCEPT":"*\/*","REQUEST_METHOD":"GET"}
+
+[2026-01-03 11:33:00] CONTENT_TYPE=application/json CONTENT_LENGTH= REQUEST_METHOD=GET
+RAW_BODY_LEN=0 RAW_BODY=
+RAW_BODY_HEX=
+HEADERS={"CONTENT_TYPE":"application\/json","CONTENT_LENGTH":"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36 Edg\/143.0.0.0","HTTP_ACCEPT":"*\/*","REQUEST_METHOD":"GET"}
+
+[2026-01-03 11:50:10] CONTENT_TYPE=application/json CONTENT_LENGTH= REQUEST_METHOD=GET
+RAW_BODY_LEN=0 RAW_BODY=
+RAW_BODY_HEX=
+HEADERS={"CONTENT_TYPE":"application\/json","CONTENT_LENGTH":"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36 Edg\/143.0.0.0","HTTP_ACCEPT":"*\/*","REQUEST_METHOD":"GET"}
+
+[2026-01-03 11:50:11] CONTENT_TYPE=application/json CONTENT_LENGTH= REQUEST_METHOD=GET
+RAW_BODY_LEN=0 RAW_BODY=
+RAW_BODY_HEX=
+HEADERS={"CONTENT_TYPE":"application\/json","CONTENT_LENGTH":"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36 Edg\/143.0.0.0","HTTP_ACCEPT":"*\/*","REQUEST_METHOD":"GET"}
+
+[2026-01-03 11:50:11] CONTENT_TYPE=application/json CONTENT_LENGTH= REQUEST_METHOD=GET
+RAW_BODY_LEN=0 RAW_BODY=
+RAW_BODY_HEX=
+HEADERS={"CONTENT_TYPE":"application\/json","CONTENT_LENGTH":"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36 Edg\/143.0.0.0","HTTP_ACCEPT":"*\/*","REQUEST_METHOD":"GET"}
+
+[2026-01-03 11:50:11] CONTENT_TYPE=application/json CONTENT_LENGTH= REQUEST_METHOD=GET
+RAW_BODY_LEN=0 RAW_BODY=
+RAW_BODY_HEX=
+HEADERS={"CONTENT_TYPE":"application\/json","CONTENT_LENGTH":"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36 Edg\/143.0.0.0","HTTP_ACCEPT":"*\/*","REQUEST_METHOD":"GET"}
+
+[2026-01-03 11:50:11] CONTENT_TYPE=application/json CONTENT_LENGTH= REQUEST_METHOD=GET
+RAW_BODY_LEN=0 RAW_BODY=
+RAW_BODY_HEX=
+HEADERS={"CONTENT_TYPE":"application\/json","CONTENT_LENGTH":"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36 Edg\/143.0.0.0","HTTP_ACCEPT":"*\/*","REQUEST_METHOD":"GET"}
+
+[2026-01-04 21:03:51] POST REQUEST: {"supplierId":"SUP20260104135973","productId":"Prod202601040001","batchNo":"20260001","quantity":100,"unitPrice":12,"totalAmount":1200,"deliveryDate":"2026-01-04","status":"delivered"}
+[2026-01-04 21:03:51] VALIDATION: supplierId=SUP20260104135973 (exists=YES), productId=Prod202601040001 (exists=YES)
+[2026-01-04 21:03:51] INSERTING: supplyId=SUP20260104210391, status=Received
+[2026-01-04 21:03:51] UPDATING INVENTORY: productId=Prod202601040001, quantity=100
+[2026-01-04 21:05:19] POST REQUEST: {"supplierId":"SUP20260104135973","productId":"Prod202601040003","batchNo":"20260002","quantity":1000,"unitPrice":30,"totalAmount":30000,"deliveryDate":"2026-01-04","status":"delivered"}
+[2026-01-04 21:05:19] VALIDATION: supplierId=SUP20260104135973 (exists=YES), productId=Prod202601040003 (exists=YES)
+[2026-01-04 21:05:20] INSERTING: supplyId=SUP20260104210509, status=Received
+[2026-01-04 21:05:20] UPDATING INVENTORY: productId=Prod202601040003, quantity=1000
+[2026-01-04 21:06:20] POST REQUEST: {"supplierId":"SUP20260104135973","productId":"Prod202601040004","batchNo":"20260003","quantity":1000,"unitPrice":30,"totalAmount":30000,"deliveryDate":"2026-01-22","status":"delivered"}
+[2026-01-04 21:06:20] VALIDATION: supplierId=SUP20260104135973 (exists=YES), productId=Prod202601040004 (exists=YES)
+[2026-01-04 21:06:20] INSERTING: supplyId=SUP20260104210652, status=Received
+[2026-01-04 21:06:20] UPDATING INVENTORY: productId=Prod202601040004, quantity=1000
+[2026-01-04 21:22:44] POST REQUEST: {"supplierId":"SUP20260104135973","productId":"Prod202511070003","batchNo":"20250003","quantity":100,"unitPrice":110,"totalAmount":11000,"deliveryDate":"2026-01-04","deliveredDate":"","status":"pending","notes":""}
+[2026-01-04 21:22:44] VALIDATION: supplierId=SUP20260104135973 (exists=YES), productId=Prod202511070003 (exists=YES)
+[2026-01-04 21:22:44] INSERTING: supplyId=SUP20260104212272, status=Pending
+[2026-01-04 21:33:39] POST REQUEST: {"supplierId":"SUP20260104135973","productId":"Prod202511070002","batchNo":"20250002","quantity":50,"unitPrice":10,"totalAmount":500,"deliveryDate":"2026-01-04","deliveredDate":"","status":"pending","notes":""}
+[2026-01-04 21:33:39] VALIDATION: supplierId=SUP20260104135973 (exists=YES), productId=Prod202511070002 (exists=YES)
+[2026-01-04 21:33:39] INSERTING: supplyId=SUP20260104213303, status=Pending
+[2026-01-05 10:46:50] POST REQUEST: {"supplierId":"SUP20260105101020","productId":"Prod202601050001","batchNo":"20260001","quantity":50,"unitPrice":110,"totalAmount":5500,"deliveryDate":"2026-01-05","deliveredDate":"","status":"pending","notes":""}
+[2026-01-05 10:46:50] VALIDATION: supplierId=SUP20260105101020 (exists=YES), productId=Prod202601050001 (exists=YES)
+[2026-01-05 10:46:50] INSERTING: supplyId=SUP20260105104681, status=Pending
+[2026-01-05 13:23:37] POST REQUEST: {"supplierId":"SUP20260105101020","productId":"Prod202601050003","batchNo":"20260002","quantity":300,"unitPrice":10,"totalAmount":3000,"deliveryDate":"2026-01-05","status":"pending"}
+[2026-01-05 13:23:37] VALIDATION: supplierId=SUP20260105101020 (exists=YES), productId=Prod202601050003 (exists=YES)
+[2026-01-05 13:23:37] INSERTING: supplyId=SUP20260105132368, status=Pending
+[2026-01-05 13:32:14] POST REQUEST: {"supplierId":"SUP20260105101020","productId":"Prod202601050004","batchNo":"20260003","quantity":300,"unitPrice":12,"totalAmount":3600,"deliveryDate":"2026-01-05","status":"pending"}
+[2026-01-05 13:32:14] VALIDATION: supplierId=SUP20260105101020 (exists=YES), productId=Prod202601050004 (exists=YES)
+[2026-01-05 13:32:14] INSERTING: supplyId=SUP20260105133278, status=Pending
+[2026-01-05 13:34:00] POST REQUEST: {"supplierId":"SUP20260105101020","productId":"Prod202511070003","batchNo":"20250003","quantity":100,"unitPrice":110,"totalAmount":11000,"deliveryDate":"2026-01-05","deliveredDate":"","status":"pending","notes":""}
+[2026-01-05 13:34:00] VALIDATION: supplierId=SUP20260105101020 (exists=YES), productId=Prod202511070003 (exists=YES)
+[2026-01-05 13:34:00] INSERTING: supplyId=SUP20260105133494, status=Pending
+[2026-01-05 13:53:05] POST REQUEST: {"supplierId":"SUP20260105101020","productId":"Prod202601050005","batchNo":"20260004","quantity":100,"unitPrice":120,"totalAmount":12000,"deliveryDate":"2026-01-05","status":"pending"}
+[2026-01-05 13:53:05] VALIDATION: supplierId=SUP20260105101020 (exists=YES), productId=Prod202601050005 (exists=YES)
+[2026-01-05 13:53:05] INSERTING: supplyId=SUP20260105135329, status=Pending
+[2026-01-05 13:56:59] POST REQUEST: {"supplierId":"SUP20260105101020","productId":"Prod202601050006","batchNo":"20260005","quantity":1000,"unitPrice":120,"totalAmount":120000,"deliveryDate":"2026-01-05","status":"pending"}
+[2026-01-05 13:56:59] VALIDATION: supplierId=SUP20260105101020 (exists=YES), productId=Prod202601050006 (exists=YES)
+[2026-01-05 13:56:59] INSERTING: supplyId=SUP20260105135640, status=Pending
+[2026-01-05 13:59:57] POST REQUEST: {"supplierId":"SUP20260105101020","productId":"Prod202601050007","batchNo":"20260006","quantity":100,"unitPrice":12,"totalAmount":1200,"deliveryDate":"2026-01-05","status":"pending"}
+[2026-01-05 13:59:57] VALIDATION: supplierId=SUP20260105101020 (exists=YES), productId=Prod202601050007 (exists=YES)
+[2026-01-05 13:59:57] INSERTING: supplyId=SUP20260105135902, status=Pending
+[2026-01-05 14:10:22] POST REQUEST: {"supplierId":"SUP20260105101020","productId":"Prod202601050008","batchNo":"20260007","quantity":1000,"unitPrice":12,"totalAmount":12000,"deliveryDate":"2026-01-05","status":"pending"}
+[2026-01-05 14:10:22] VALIDATION: supplierId=SUP20260105101020 (exists=YES), productId=Prod202601050008 (exists=YES)
+[2026-01-05 14:10:23] INSERTING: supplyId=SUP20260105141077, status=Pending
+[2026-01-05 14:13:44] POST REQUEST: {"supplierId":"SUP20260105101020","productId":"Prod202601050009","batchNo":"20260008","quantity":100,"unitPrice":12,"totalAmount":1200,"deliveryDate":"2026-01-05","status":"pending"}
+[2026-01-05 14:13:44] VALIDATION: supplierId=SUP20260105101020 (exists=YES), productId=Prod202601050009 (exists=YES)
+[2026-01-05 14:13:44] INSERTING: supplyId=SUP20260105141319, status=Pending
+[2026-01-05 14:19:37] POST REQUEST: {"supplierId":"SUP20260105101020","productId":"Prod202601050010","batchNo":"20260009","quantity":40,"unitPrice":1,"totalAmount":40,"deliveryDate":"2026-01-05","status":"pending"}
+[2026-01-05 14:19:37] VALIDATION: supplierId=SUP20260105101020 (exists=YES), productId=Prod202601050010 (exists=YES)
+[2026-01-05 14:19:37] INSERTING: supplyId=SUP20260105141956, status=Pending
+[2026-01-05 14:26:37] POST REQUEST: {"supplierId":"SUP20260105101020","productId":"Prod202601050011","batchNo":"20260010","quantity":20,"unitPrice":20,"totalAmount":400,"deliveryDate":"2026-01-05","status":"pending"}
+[2026-01-05 14:26:37] VALIDATION: supplierId=SUP20260105101020 (exists=YES), productId=Prod202601050011 (exists=YES)
+[2026-01-05 14:26:37] INSERTING: supplyId=SUP20260105142616, status=Pending
+[2026-01-05 14:30:14] POST REQUEST: {"supplierId":"SUP20260105101020","productId":"Prod202601050001","batchNo":"20260001","quantity":30,"unitPrice":110,"totalAmount":3300,"deliveryDate":"2026-01-05","deliveredDate":"","status":"pending","notes":""}
+[2026-01-05 14:30:14] VALIDATION: supplierId=SUP20260105101020 (exists=YES), productId=Prod202601050001 (exists=YES)
+[2026-01-05 14:30:15] INSERTING: supplyId=SUP20260105143049, status=Pending
+[2026-01-05 14:45:48] POST REQUEST: {"supplierId":"SUP20260105144589","productId":"Prod202601050001","batchNo":"20260001","quantity":10,"unitPrice":100,"totalAmount":1000,"deliveryDate":"2026-01-05","status":"pending"}
+[2026-01-05 14:45:48] VALIDATION: supplierId=SUP20260105144589 (exists=YES), productId=Prod202601050001 (exists=YES)
+[2026-01-05 14:45:48] INSERTING: supplyId=SUP20260105144577, status=Pending
+[2026-01-05 15:04:24] POST REQUEST: {"supplierId":"SUP20260105144589","productId":"Prod202601050007","batchNo":"20260004","quantity":20,"unitPrice":10,"totalAmount":200,"deliveryDate":"2026-01-05","status":"pending"}
+[2026-01-05 15:04:24] VALIDATION: supplierId=SUP20260105144589 (exists=YES), productId=Prod202601050007 (exists=YES)
+[2026-01-05 15:04:24] INSERTING: supplyId=SUP20260105150485, status=Pending
+[2026-01-09 15:46:10] POST REQUEST: {"supplierId":"SUP20260105144589","productId":"Prod202601050004","batchNo":"20260003","quantity":30,"unitPrice":1,"totalAmount":30,"deliveryDate":"2026-01-09","deliveredDate":"","status":"pending","notes":""}
+[2026-01-09 15:46:10] VALIDATION: supplierId=SUP20260105144589 (exists=YES), productId=Prod202601050004 (exists=YES)
+[2026-01-09 15:46:10] INSERTING: supplyId=SUP20260109154694, status=Pending

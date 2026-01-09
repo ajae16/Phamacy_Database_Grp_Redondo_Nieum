@@ -1,0 +1,392 @@
+DEBUG userId: not set
+DEBUG roles: []
+DEBUG userId: not set
+DEBUG roles: []
+DEBUG userId: not set
+DEBUG roles: []
+DEBUG userId: not set
+DEBUG roles: []
+DEBUG userId: not set
+DEBUG roles: []
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202500000000
+    [username] => Admin
+    [fullName] => Super Admin
+    [roles] => Array
+        (
+            [0] => Super Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202500000000
+    [username] => Admin
+    [fullName] => Super Admin
+    [roles] => Array
+        (
+            [0] => Super Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG userId: not set
+DEBUG roles: []
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202500000000
+    [username] => Admin
+    [fullName] => Super Admin
+    [roles] => Array
+        (
+            [0] => Super Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202500000000
+    [username] => Admin
+    [fullName] => Super Admin
+    [roles] => Array
+        (
+            [0] => Super Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202500000000
+    [username] => Admin
+    [fullName] => Super Admin
+    [roles] => Array
+        (
+            [0] => Super Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202500000000
+    [username] => Admin
+    [fullName] => Super Admin
+    [roles] => Array
+        (
+            [0] => Super Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG userId: Acc202500000000
+DEBUG roles: ["Super Admin"]
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202500000000
+    [username] => Admin
+    [fullName] => Super Admin
+    [roles] => Array
+        (
+            [0] => Super Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG userId: Acc202500000000
+DEBUG roles: ["Super Admin"]
+DEBUG userId: Acc202500000000
+DEBUG roles: ["Super Admin"]
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202601050001
+    [username] => Ajae3
+    [fullName] => Adrian Jae Antonio
+    [roles] => Array
+        (
+            [0] => Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202601050001
+    [username] => Ajae3
+    [fullName] => Adrian Jae Antonio
+    [roles] => Array
+        (
+            [0] => Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202601050001
+    [username] => Ajae3
+    [fullName] => Adrian Jae Antonio
+    [roles] => Array
+        (
+            [0] => Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202601050001
+    [username] => Ajae3
+    [fullName] => Adrian Jae Antonio
+    [roles] => Array
+        (
+            [0] => Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202500000000
+    [username] => Admin
+    [fullName] => Super Admin
+    [roles] => Array
+        (
+            [0] => Super Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202500000000
+    [username] => Admin
+    [fullName] => Super Admin
+    [roles] => Array
+        (
+            [0] => Super Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202500000000
+    [username] => Admin
+    [fullName] => Super Admin
+    [roles] => Array
+        (
+            [0] => Super Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202500000000
+    [username] => Admin
+    [fullName] => Super Admin
+    [roles] => Array
+        (
+            [0] => Super Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202500000000
+    [username] => Admin
+    [fullName] => Super Admin
+    [roles] => Array
+        (
+            [0] => Super Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202500000000
+    [username] => Admin
+    [fullName] => Super Admin
+    [roles] => Array
+        (
+            [0] => Super Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202500000000
+    [username] => Admin
+    [fullName] => Super Admin
+    [roles] => Array
+        (
+            [0] => Super Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202500000000
+    [username] => Admin
+    [fullName] => Super Admin
+    [roles] => Array
+        (
+            [0] => Super Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202500000000
+    [username] => Admin
+    [fullName] => Super Admin
+    [roles] => Array
+        (
+            [0] => Super Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202500000000
+    [username] => Admin
+    [fullName] => Super Admin
+    [roles] => Array
+        (
+            [0] => Super Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+
+DEBUG roles.php session: Array
+(
+    [logged_in] => 1
+    [userId] => Acc202500000000
+    [username] => Admin
+    [fullName] => Super Admin
+    [roles] => Array
+        (
+            [0] => Super Admin
+        )
+
+)
+
+DEBUG roles.php POST: Array
+(
+)
+

@@ -1,0 +1,39 @@
+[2026-01-03 02:14:31] Uncaught exception: Cannot add or update a child row: a foreign key constraint fails (`pharmacy_mis`.`supply_deliveries`, CONSTRAINT `supply_deliveries_ibfk_1` FOREIGN KEY (`supplierId`) REFERENCES `suppliers` (`supplierId`)) in D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php on line 89
+Stack trace:
+#0 D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php(89): mysqli_stmt->execute()
+#1 D:\Database\xampp\htdocs\Pharmacy Database\api\deliveries.php(167): executeQuery('INSERT INTO sup...', Array, 'ssssiddssss')
+#2 D:\Database\xampp\htdocs\Pharmacy Database\api\deliveries.php(85): handlePost(Array)
+#3 {main}
+
+[2026-01-03 12:00:42] Uncaught exception: The number of elements in the type definition string must match the number of bind variables in D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php on line 85
+Stack trace:
+#0 D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php(85): mysqli_stmt->bind_param('sssiiddsssss', 'SUP202601031132...', 'Prod20251107000...', '', 30, 10.0, 300.0, '2026-01-03', '2026-01-02', 'delivered', '', 'SUP202601031132...')
+#1 D:\Database\xampp\htdocs\Pharmacy Database\api\deliveries.php(203): executeQuery('UPDATE supply_d...', Array, 'sssiiddsssss')
+#2 D:\Database\xampp\htdocs\Pharmacy Database\api\deliveries.php(88): handlePut('SUP202601031132...', Array)
+#3 {main}
+
+[2026-01-03 12:02:36] Uncaught exception: The number of elements in the type definition string must match the number of bind variables in D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php on line 85
+Stack trace:
+#0 D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php(85): mysqli_stmt->bind_param('sssiiddsssss', 'SUP202601031132...', 'Prod20251107000...', '', 5, 10.0, 50.0, '2026-01-03', NULL, 'delivered', '', 'SUP202601031202...')
+#1 D:\Database\xampp\htdocs\Pharmacy Database\api\deliveries.php(203): executeQuery('UPDATE supply_d...', Array, 'sssiiddsssss')
+#2 D:\Database\xampp\htdocs\Pharmacy Database\api\deliveries.php(88): handlePut('SUP202601031202...', Array)
+#3 {main}
+
+[2026-01-09 15:21:20] Uncaught exception: Unknown column 'ur.userId' in 'where clause' in D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php on line 73
+Stack trace:
+#0 D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php(73): mysqli->prepare('SELECT r.roleNa...')
+#1 D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php(295): executeQuery('SELECT r.roleNa...', Array, 's')
+#2 D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php(311): getUserRoles()
+#3 D:\Database\xampp\htdocs\Pharmacy Database\api\deliveries.php(185): requireRole(Array)
+#4 D:\Database\xampp\htdocs\Pharmacy Database\api\deliveries.php(95): handlePost(Array)
+#5 {main}
+
+[2026-01-09 15:21:44] Uncaught exception: Unknown column 'ur.userId' in 'where clause' in D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php on line 73
+Stack trace:
+#0 D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php(73): mysqli->prepare('SELECT r.roleNa...')
+#1 D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php(295): executeQuery('SELECT r.roleNa...', Array, 's')
+#2 D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php(311): getUserRoles()
+#3 D:\Database\xampp\htdocs\Pharmacy Database\api\deliveries.php(185): requireRole(Array)
+#4 D:\Database\xampp\htdocs\Pharmacy Database\api\deliveries.php(95): handlePost(Array)
+#5 {main}
+

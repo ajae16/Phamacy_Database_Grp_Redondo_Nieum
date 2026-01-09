@@ -1,0 +1,189 @@
+DEBUG login.php start
+DEBUG before session_start
+DEBUG after session_start
+DEBUG login.php start
+DEBUG before session_start
+DEBUG after session_start
+DEBUG login.php start
+DEBUG before session_start
+DEBUG after session_start
+DEBUG login.php start
+DEBUG before session_start
+DEBUG after session_start
+DEBUG REQUEST_METHOD: POST
+DEBUG POST DATA: {"username":"Admin","password":"Admin12345"}
+DEBUG login.php start
+DEBUG before session_start
+DEBUG after session_start
+DEBUG REQUEST_METHOD: POST
+DEBUG POST DATA: {"username":"Admin","password":"Admin12345"}
+DEBUG username value: 'Admin', length: 5, empty: no
+DEBUG password value: 'Admin12345', length: 10, empty: no
+DEBUG login.php start
+DEBUG before session_start
+DEBUG after session_start
+DEBUG REQUEST_METHOD: POST
+DEBUG POST DATA: {"username":"Admin","password":"Admin12345"}
+DEBUG username value: 'Admin', length: 5, empty: no
+DEBUG password value: 'Admin12345', length: 10, empty: no
+DEBUG before getDBConnection
+DEBUG got DB connection
+DEBUG before prepare stmt
+DEBUG prepared stmt
+DEBUG after bind_param
+DEBUG after execute
+DEBUG after get_result
+DEBUG login.php start
+DEBUG before session_start
+DEBUG after session_start
+DEBUG REQUEST_METHOD: POST
+DEBUG POST DATA: {"username":"Admin","password":"Admin12345"}
+DEBUG username value: 'Admin', length: 5, empty: no
+DEBUG password value: 'Admin12345', length: 10, empty: no
+DEBUG before getDBConnection
+DEBUG got DB connection
+DEBUG before prepare stmt
+DEBUG prepared stmt
+DEBUG after bind_param
+DEBUG after execute
+DEBUG after get_result
+DEBUG num_rows: 1
+DEBUG login.php start
+DEBUG before session_start
+DEBUG after session_start
+DEBUG REQUEST_METHOD: POST
+DEBUG POST DATA: {"username":"Admin","password":"Admin12345"}
+DEBUG username value: 'Admin', length: 5, empty: no
+DEBUG password value: 'Admin12345', length: 10, empty: no
+DEBUG before getDBConnection
+DEBUG got DB connection
+DEBUG before prepare stmt
+DEBUG prepared stmt
+DEBUG after bind_param
+DEBUG after execute
+DEBUG after get_result
+DEBUG num_rows: 1
+DEBUG fetched user: {"accountId":"Acc202500000000","firstName":"Super","lastName":"Admin","fullName":"Super Admin","username":"Admin","password":"$2y$10$LsVAAGyBB1yJH6AR8ZWJkO6AYc.H.8uY7k0raV3OPSc1KScUieTbW"}
+DEBUG login.php start
+DEBUG before session_start
+DEBUG after session_start
+DEBUG REQUEST_METHOD: POST
+DEBUG POST DATA: {"username":"Admin","password":"Admin12345"}
+DEBUG username value: 'Admin', length: 5, empty: no
+DEBUG password value: 'Admin12345', length: 10, empty: no
+DEBUG before getDBConnection
+DEBUG got DB connection
+DEBUG before prepare stmt
+DEBUG prepared stmt
+DEBUG after bind_param
+DEBUG after execute
+DEBUG after get_result
+DEBUG num_rows: 1
+DEBUG fetched user: {"accountId":"Acc202500000000","firstName":"Super","lastName":"Admin","fullName":"Super Admin","username":"Admin","password":"$2y$10$LsVAAGyBB1yJH6AR8ZWJkO6AYc.H.8uY7k0raV3OPSc1KScUieTbW"}
+DEBUG db password hash: '$2y$10$LsVAAGyBB1yJH6AR8ZWJkO6AYc.H.8uY7k0raV3OPSc1KScUieTbW'
+DEBUG password_verify result: true
+DEBUG login.php start
+DEBUG before session_start
+DEBUG after session_start
+DEBUG REQUEST_METHOD: POST
+DEBUG POST DATA: {"username":"Admin","password":"Admin12345"}
+DEBUG username value: 'Admin', length: 5, empty: no
+DEBUG password value: 'Admin12345', length: 10, empty: no
+DEBUG before getDBConnection
+DEBUG got DB connection
+DEBUG before prepare stmt
+DEBUG prepared stmt
+DEBUG after bind_param
+DEBUG after execute
+DEBUG after get_result
+DEBUG num_rows: 1
+DEBUG fetched user: {"accountId":"Acc202500000000","firstName":"Super","lastName":"Admin","fullName":"Super Admin","username":"Admin","password":"$2y$10$LsVAAGyBB1yJH6AR8ZWJkO6AYc.H.8uY7k0raV3OPSc1KScUieTbW"}
+DEBUG db password hash: '$2y$10$LsVAAGyBB1yJH6AR8ZWJkO6AYc.H.8uY7k0raV3OPSc1KScUieTbW'
+DEBUG password_verify result: true
+DEBUG session set: userId=Acc202500000000, username=Admin, fullName=Super Admin
+DEBUG session roles: ["Super Admin"]
+DEBUG before sendSuccess
+DEBUG login.php start
+DEBUG before session_start
+DEBUG after session_start
+DEBUG REQUEST_METHOD: POST
+DEBUG POST DATA: {"username":"Admin","password":"Admin12345"}
+DEBUG username value: 'Admin', length: 5, empty: no
+DEBUG password value: 'Admin12345', length: 10, empty: no
+DEBUG before getDBConnection
+DEBUG got DB connection
+DEBUG before prepare stmt
+DEBUG prepared stmt
+DEBUG after bind_param
+DEBUG after execute
+DEBUG after get_result
+DEBUG num_rows: 1
+DEBUG fetched user: {"accountId":"Acc202500000000","firstName":"Super","lastName":"Admin","fullName":"Super Admin","username":"Admin","password":"$2y$10$LsVAAGyBB1yJH6AR8ZWJkO6AYc.H.8uY7k0raV3OPSc1KScUieTbW"}
+DEBUG db password hash: '$2y$10$LsVAAGyBB1yJH6AR8ZWJkO6AYc.H.8uY7k0raV3OPSc1KScUieTbW'
+DEBUG password_verify result: true
+DEBUG session set: userId=Acc202500000000, username=Admin, fullName=Super Admin
+DEBUG session roles: ["Super Admin"]
+DEBUG before sendSuccess
+DEBUG login.php start
+DEBUG before session_start
+DEBUG after session_start
+DEBUG REQUEST_METHOD: POST
+DEBUG POST DATA: {"username":"Ajae3","password":"Ajae12345"}
+DEBUG username value: 'Ajae3', length: 5, empty: no
+DEBUG password value: 'Ajae12345', length: 9, empty: no
+DEBUG before getDBConnection
+DEBUG got DB connection
+DEBUG before prepare stmt
+DEBUG prepared stmt
+DEBUG after bind_param
+DEBUG after execute
+DEBUG after get_result
+DEBUG num_rows: 1
+DEBUG fetched user: {"accountId":"Acc202601050001","firstName":"Adrian Jae","lastName":"Antonio","fullName":"Adrian Jae Antonio","username":"Ajae3","password":"$2y$10$X6MlRD3N8wiOgH1PHXgtBeKicI\/h0mRvGSVEyNFIdt5N\/uQC5IPtK"}
+DEBUG db password hash: '$2y$10$X6MlRD3N8wiOgH1PHXgtBeKicI/h0mRvGSVEyNFIdt5N/uQC5IPtK'
+DEBUG password_verify result: true
+DEBUG session set: userId=Acc202601050001, username=Ajae3, fullName=Adrian Jae Antonio
+DEBUG session roles: ["Admin"]
+DEBUG before sendSuccess
+DEBUG login.php start
+DEBUG before session_start
+DEBUG after session_start
+DEBUG REQUEST_METHOD: POST
+DEBUG POST DATA: {"username":"Admin","password":"Admin12345"}
+DEBUG username value: 'Admin', length: 5, empty: no
+DEBUG password value: 'Admin12345', length: 10, empty: no
+DEBUG before getDBConnection
+DEBUG got DB connection
+DEBUG before prepare stmt
+DEBUG prepared stmt
+DEBUG after bind_param
+DEBUG after execute
+DEBUG after get_result
+DEBUG num_rows: 1
+DEBUG fetched user: {"accountId":"Acc202500000000","firstName":"Super","lastName":"Admin","fullName":"Super Admin","username":"Admin","password":"$2y$10$LsVAAGyBB1yJH6AR8ZWJkO6AYc.H.8uY7k0raV3OPSc1KScUieTbW"}
+DEBUG db password hash: '$2y$10$LsVAAGyBB1yJH6AR8ZWJkO6AYc.H.8uY7k0raV3OPSc1KScUieTbW'
+DEBUG password_verify result: true
+DEBUG session set: userId=Acc202500000000, username=Admin, fullName=Super Admin
+DEBUG session roles: ["Super Admin"]
+DEBUG before sendSuccess
+DEBUG login.php start
+DEBUG before session_start
+DEBUG after session_start
+DEBUG REQUEST_METHOD: POST
+DEBUG POST DATA: {"username":"Admin","password":"Admin12345"}
+DEBUG username value: 'Admin', length: 5, empty: no
+DEBUG password value: 'Admin12345', length: 10, empty: no
+DEBUG before getDBConnection
+DEBUG got DB connection
+DEBUG before prepare stmt
+DEBUG prepared stmt
+DEBUG after bind_param
+DEBUG after execute
+DEBUG after get_result
+DEBUG num_rows: 1
+DEBUG fetched user: {"accountId":"Acc202500000000","firstName":"Super","lastName":"Admin","fullName":"Super Admin","username":"Admin","password":"$2y$10$LsVAAGyBB1yJH6AR8ZWJkO6AYc.H.8uY7k0raV3OPSc1KScUieTbW"}
+DEBUG db password hash: '$2y$10$LsVAAGyBB1yJH6AR8ZWJkO6AYc.H.8uY7k0raV3OPSc1KScUieTbW'
+DEBUG password_verify result: true
+DEBUG session set: userId=Acc202500000000, username=Admin, fullName=Super Admin
+DEBUG session roles: ["Super Admin"]
+DEBUG before sendSuccess

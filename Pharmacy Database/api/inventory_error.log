@@ -1,0 +1,10 @@
+2026-01-05 10:04:53 EXCEPTION: Unknown column 'i.supplier' in 'on clause' in D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php on line 73
+2026-01-05 10:05:43 EXCEPTION: Unknown column 'i.supplier' in 'on clause' in D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php on line 73
+2026-01-05 10:10:54 EXCEPTION: Unknown column 'supplier' in 'field list' in D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php on line 73
+2026-01-05 10:15:50 EXCEPTION: Unknown column 'supplier' in 'field list' in D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php on line 73
+2026-01-05 10:55:10 EXCEPTION: Duplicate entry '20260001' for key 'unique_batchNo' in D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php on line 89
+2026-01-05 14:29:23 EXCEPTION: Duplicate entry '20260001' for key 'unique_batchNo' in D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php on line 89
+2026-01-05 14:48:33 EXCEPTION: Duplicate entry '20260001' for key 'unique_batchNo' in D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php on line 89
+2026-01-05 15:04:01 EXCEPTION: Duplicate entry '20260002' for key 'unique_batchNo' in D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php on line 89
+2026-01-05 15:04:08 EXCEPTION: Duplicate entry '20260003' for key 'unique_batchNo' in D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php on line 89
+2026-01-09 15:42:17 EXCEPTION: Duplicate entry '20260001' for key 'unique_batchNo' in D:\Database\xampp\htdocs\Pharmacy Database\database\db_config.php on line 88

@@ -1,0 +1,104 @@
+api-adapter.js:434 
+ 
+ GET http://localhost/api/inventory.php?unique=categories 404 (Not Found)
+get	@	api-adapter.js:434
+loadFilterOptions	@	Catalogs.js:71
+(anonymous)	@	Catalogs.js:35
+api-adapter.js:434 
+ 
+ GET http://localhost/api/inventory.php?unique=brands 404 (Not Found)
+get	@	api-adapter.js:434
+loadFilterOptions	@	Catalogs.js:57
+(anonymous)	@	Catalogs.js:35
+api-adapter.js:434 
+ 
+ GET http://localhost/api/inventory.php?unique=genericNames 404 (Not Found)
+get	@	api-adapter.js:434
+loadFilterOptions	@	Catalogs.js:64
+(anonymous)	@	Catalogs.js:35
+api-adapter.js:434 
+ 
+ GET http://localhost/api/inventory.php?unique=suppliers 404 (Not Found)
+get	@	api-adapter.js:434
+loadFilterOptions	@	Catalogs.js:78
+(anonymous)	@	Catalogs.js:35
+api-adapter.js:434 
+ 
+ GET http://localhost/api/inventory.php?unique=prescriptionRequirements 404 (Not Found)
+get	@	api-adapter.js:434
+loadFilterOptions	@	Catalogs.js:85
+(anonymous)	@	Catalogs.js:35
+api-adapter.js:434 
+ 
+ GET http://localhost/api/inventory.php 404 (Not Found)
+get	@	api-adapter.js:434
+loadInventory	@	Catalogs.js:230
+(anonymous)	@	Catalogs.js:36
+api-adapter.js:442 
+ API GET error: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+get	@	api-adapter.js:442
+await in get		
+loadFilterOptions	@	Catalogs.js:71
+(anonymous)	@	Catalogs.js:35
+Catalogs.js:75 
+ Error loading categories: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+(anonymous)	@	Catalogs.js:75
+Promise.catch		
+loadFilterOptions	@	Catalogs.js:75
+(anonymous)	@	Catalogs.js:35
+api-adapter.js:442 
+ API GET error: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+get	@	api-adapter.js:442
+await in get		
+loadFilterOptions	@	Catalogs.js:57
+(anonymous)	@	Catalogs.js:35
+Catalogs.js:61 
+ Error loading brands: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+(anonymous)	@	Catalogs.js:61
+Promise.catch		
+loadFilterOptions	@	Catalogs.js:61
+(anonymous)	@	Catalogs.js:35
+api-adapter.js:442 
+ API GET error: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+get	@	api-adapter.js:442
+await in get		
+loadFilterOptions	@	Catalogs.js:64
+(anonymous)	@	Catalogs.js:35
+Catalogs.js:68 
+ Error loading generic names: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+(anonymous)	@	Catalogs.js:68
+Promise.catch		
+loadFilterOptions	@	Catalogs.js:68
+(anonymous)	@	Catalogs.js:35
+api-adapter.js:442 
+ API GET error: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+get	@	api-adapter.js:442
+await in get		
+loadFilterOptions	@	Catalogs.js:78
+(anonymous)	@	Catalogs.js:35
+Catalogs.js:82 
+ Error loading suppliers: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+(anonymous)	@	Catalogs.js:82
+Promise.catch		
+loadFilterOptions	@	Catalogs.js:82
+(anonymous)	@	Catalogs.js:35
+api-adapter.js:442 
+ API GET error: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+Catalogs.js:89 
+ Error loading prescription requirements: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+(anonymous)	@	Catalogs.js:89
+Promise.catch		
+loadFilterOptions	@	Catalogs.js:89
+(anonymous)	@	Catalogs.js:35
+api-adapter.js:442 
+ API GET error: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+get	@	api-adapter.js:442
+await in get		
+loadInventory	@	Catalogs.js:230
+(anonymous)	@	Catalogs.js:36
+Catalogs.js:238 
+ Error loading inventory: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+(anonymous)	@	Catalogs.js:238
+Promise.catch		
+loadInventory	@	Catalogs.js:237
+(anonymous)	@	Catalogs.js:36

@@ -1,0 +1,51 @@
+[2026-01-05 14:26:35] SQL INSERT: INSERT INTO inventory (productId, brand, genericName, category, manufacturedDate, expirationDate, stock, batchNo, price, supplierId, contact, requiresPrescription) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+PARAMS: ["Prod202601050011","Biogesic","Paracetamol","Pain Killer","2026-01-03","2026-03-05",0,"20260010",20,"SUP20260105101020","21874545745",0]
+TYPES: ssssssissdsi
+[2026-01-05 14:26:35] SQL RESULT: 1
+[2026-01-05 14:28:43] SQL INSERT: INSERT INTO inventory (productId, brand, genericName, category, manufacturedDate, expirationDate, stock, batchNo, price, supplierId, contact, requiresPrescription) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+PARAMS: ["Prod202601050012","Biogesic","Paracetamol","Pain Killer","2025-11-01","2026-08-14",0,"20260011",110,"SUP20260105101020","21874545745",0]
+TYPES: ssssssissdsi
+[2026-01-05 14:28:43] SQL RESULT: 1
+[2026-01-05 14:29:23] SQL INSERT: INSERT INTO inventory (productId, brand, genericName, category, manufacturedDate, expirationDate, stock, batchNo, price, supplierId, contact, requiresPrescription) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+PARAMS: ["Prod202601050013","Biogesic","awa","Pain Killer","2026-01-03","2026-02-04",0,"20260001",1,"SUP20260105101020","21874545745",0]
+TYPES: ssssssissdsi
+[2026-01-05 14:29:32] SQL INSERT: INSERT INTO inventory (productId, brand, genericName, category, manufacturedDate, expirationDate, stock, batchNo, price, supplierId, contact, requiresPrescription) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+PARAMS: ["Prod202601050014","Biogesic","awa","Pain Killer","2026-01-03","2026-04-03",0,"20260002",1,"SUP20260105101020","21874545745",0]
+TYPES: ssssssissdsi
+[2026-01-05 14:29:32] SQL RESULT: 1
+[2026-01-05 14:40:39] SQL INSERT: INSERT INTO inventory (productId, brand, genericName, category, manufacturedDate, expirationDate, stock, batchNo, price, supplierId, contact, requiresPrescription) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+PARAMS: ["Prod202601050015","Biogesic","awa","Pain Killer","2026-01-03","2026-02-04",0,"20260003",1,"SUP20260105101020","21874545745",0]
+TYPES: ssssssissdsi
+[2026-01-05 14:40:39] SQL RESULT: 1
+[2026-01-05 14:41:51] SQL INSERT: INSERT INTO inventory (productId, brand, genericName, category, manufacturedDate, expirationDate, stock, batchNo, price, supplierId, contact, requiresPrescription) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+PARAMS: ["Prod202601050016","Biogesic","awa","Pain Killer","2026-01-03","2026-02-04",0,"20260004",1,"SUP20260105101020","21874545745",0]
+TYPES: ssssssissdsi
+[2026-01-05 14:41:51] SQL RESULT: 1
+[2026-01-05 14:45:47] SQL INSERT: INSERT INTO inventory (productId, brand, genericName, category, manufacturedDate, expirationDate, stock, batchNo, price, supplierId, contact, requiresPrescription) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+PARAMS: ["Prod202601050001","Biogesic","Paracetamol","Pain Killer","2026-01-01","2026-04-10",0,"20260001",100,"SUP20260105144589","21874545745",0]
+TYPES: ssssssissdsi
+[2026-01-05 14:45:47] SQL RESULT: 1
+[2026-01-05 14:48:33] SQL INSERT: INSERT INTO inventory (productId, brand, genericName, category, manufacturedDate, expirationDate, stock, batchNo, price, supplierId, contact, requiresPrescription) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+PARAMS: ["Prod202601050002","Biogesic","awa","Pain Killer","2026-01-03","2026-02-04",0,"20260001",1,"SUP20260105144589","21874545745",0]
+TYPES: ssssssissdsi
+[2026-01-05 14:48:40] SQL INSERT: INSERT INTO inventory (productId, brand, genericName, category, manufacturedDate, expirationDate, stock, batchNo, price, supplierId, contact, requiresPrescription) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+PARAMS: ["Prod202601050003","Biogesic","awa","Pain Killer","2026-01-03","2026-03-27",0,"20260002",1,"SUP20260105144589","21874545745",0]
+TYPES: ssssssissdsi
+[2026-01-05 14:48:40] SQL RESULT: 1
+[2026-01-05 15:03:31] SQL INSERT: INSERT INTO inventory (productId, brand, genericName, category, manufacturedDate, expirationDate, stock, batchNo, price, supplierId, contact, requiresPrescription) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+PARAMS: ["Prod202601050004","Biogesic","awa","Pain Killer","2026-01-03","2026-02-04",0,"20260003",1,"SUP20260105144589","21874545745",0]
+TYPES: ssssssissdsi
+[2026-01-05 15:03:31] SQL RESULT: 1
+[2026-01-05 15:04:01] SQL INSERT: INSERT INTO inventory (productId, brand, genericName, category, manufacturedDate, expirationDate, stock, batchNo, price, supplierId, contact, requiresPrescription) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+PARAMS: ["Prod202601050005","Biogesic","Paracetamol","Pain Killer","2026-01-02","2026-03-26",0,"20260002",10,"SUP20260105144589","21874545745",0]
+TYPES: ssssssissdsi
+[2026-01-05 15:04:08] SQL INSERT: INSERT INTO inventory (productId, brand, genericName, category, manufacturedDate, expirationDate, stock, batchNo, price, supplierId, contact, requiresPrescription) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+PARAMS: ["Prod202601050006","Biogesic","Paracetamol","Pain Killer","2026-01-02","2026-04-22",0,"20260003",10,"SUP20260105144589","21874545745",0]
+TYPES: ssssssissdsi
+[2026-01-05 15:04:20] SQL INSERT: INSERT INTO inventory (productId, brand, genericName, category, manufacturedDate, expirationDate, stock, batchNo, price, supplierId, contact, requiresPrescription) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+PARAMS: ["Prod202601050007","Biogesic","Paracetamol","Pain Killer","2026-01-02","2026-04-22",0,"20260004",10,"SUP20260105144589","21874545745",0]
+TYPES: ssssssissdsi
+[2026-01-05 15:04:20] SQL RESULT: 1
+[2026-01-09 15:42:17] SQL INSERT: INSERT INTO inventory (productId, brand, genericName, category, manufacturedDate, expirationDate, stock, batchNo, price, supplierId, contact, requiresPrescription) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+PARAMS: ["Prod202601090001","Biogesic","Paracetamol","Pain Killer","2026-01-03","2026-04-23",0,"20260001",10,"SUP20260105144589","21874545745",0]
+TYPES: ssssssissdsi

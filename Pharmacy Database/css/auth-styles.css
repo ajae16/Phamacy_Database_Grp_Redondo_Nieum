@@ -1,0 +1,314 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+    /* Hide scrollbar for body */
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.pharmacy-logo {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.pharmacy-logo img {
+    margin-bottom: 0;
+    max-width: 80px;
+    height: auto;
+}
+
+.container {
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    width: 100%;
+    max-width: 500px;
+    min-height: 700px;
+    max-height: 98vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Form Container */
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.login-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+/* Form Styling */
+form {
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 30px 40px;
+    justify-content: center;
+    overflow-y: auto;
+    /* Hide scrollbar for IE, Edge and Firefox */
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+form::-webkit-scrollbar {
+    display: none;
+}
+
+h2 {
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    color: #333;
+    text-align: center;
+}
+
+.subtitle {
+    color: #666;
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.input-group {
+    position: relative;
+    margin-bottom: 12px;
+}
+
+.input-group i {
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #a0aec0;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+
+.input-group input, .input-group select {
+    width: 100%;
+    padding: 12px 12px 12px 42px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    font-size: 14px;
+    outline: none;
+    background: #f8f9fa;
+    transition: all 0.3s ease;
+}
+
+.input-group input[type="password"] {
+    padding-right: 50px;
+}
+
+.input-group input:focus, .input-group select:focus {
+    border-color: #667eea;
+    background: #fff;
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+.input-group input:focus ~ i,
+.input-group:focus-within > i {
+    color: #667eea;
+}
+
+.input-group input:hover, .input-group select:hover {
+    border-color: #cbd5e0;
+}
+
+/* Password Toggle */
+.toggle-password {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: #999;
+    font-size: 18px;
+    transition: color 0.3s ease;
+    z-index: 10;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.toggle-password:hover {
+    color: #667eea;
+}
+
+/* Options (Remember Me & Forgot Password) */
+.options {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+    font-size: 12px;
+}
+
+/* Checkbox */
+.checkbox {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    user-select: none;
+    color: #666;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.checkbox input {
+    margin-right: 8px;
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
+
+.checkbox span {
+    line-height: 1.4;
+}
+
+/* Links */
+.link {
+    color: #667eea;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 12px;
+    transition: color 0.3s ease;
+}
+
+.link:hover {
+    color: #764ba2;
+    text-decoration: underline;
+}
+
+/* Button */
+.btn {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: #fff;
+    border: none;
+    padding: 11px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
+}
+
+.btn:active {
+    transform: translateY(0);
+}
+
+
+/* Notification Styles */
+.notification {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background: white;
+    padding: 18px 25px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    z-index: 10000;
+    opacity: 0;
+    transform: translateX(400px);
+    transition: all 0.3s ease;
+    max-width: 400px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.notification.show {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+.notification.success {
+    border-left: 4px solid #48bb78;
+    color: #2f855a;
+}
+
+.notification.success i {
+    color: #48bb78;
+    font-size: 20px;
+}
+
+.notification.error {
+    border-left: 4px solid #f56565;
+    color: #c53030;
+}
+
+.notification.error i {
+    color: #f56565;
+    font-size: 20px;
+}
+
+.notification.info {
+    border-left: 4px solid #667eea;
+    color: #5568d3;
+}
+
+.notification.info i {
+    color: #667eea;
+    font-size: 20px;
+}
+
+/* Button Loading State */
+.btn:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+}
+
+.fa-spinner {
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes Float {
+0%, 100% {transform: translateY(0); }
+50% { transform: translateY(-30px);}
+}
